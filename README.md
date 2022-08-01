@@ -12,12 +12,12 @@ Ques. 2: Write code to accomplish below things:
 - On submitting the form, it will check login details validity in the MYSQL table.
 - Then redirect the user with a self explanatory message.
 
-Ques. 3: Write a program to print below pattern:
-1
-22
-333
-4444
-55555
+Ques. 3: Write a program to print below pattern:<br>
+1<br>
+22<br>
+333<br>
+4444<br>
+55555<br>
 666666
 
 Ques. 4: Write a program to print the reverse of a given number?
